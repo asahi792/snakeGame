@@ -2,7 +2,10 @@ hello   2
 my    33333333
  git
 2 so long
+<<<<<<< HEAD
 hello
 hello
 hello
-hello main test
+hello
+main test
+hot-fix test
